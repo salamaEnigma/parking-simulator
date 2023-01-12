@@ -34,15 +34,8 @@ class _MyHomePageState extends State<MyHomePage> {
   int _carCount = 0;
 
 //* ########## PUT YOUR FUNCTIONS HERE => (LOGIC)
-  void _incrementCarCounter() {
-    setState(
-      () {
-        _carCount++;
-      },
-    );
-  }
-
-  // TODO : Add decrementCarCounter function
+  void _incrementCarCounter() {}
+  void _decrementCarCounter() {}
 
 //* ########## PUT YOUR DESIGN CODE HERE => (UI)
 
